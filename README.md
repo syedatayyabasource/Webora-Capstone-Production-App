@@ -269,12 +269,6 @@ The main challenge was implementing different permissions for Admins, Team Membe
 
 The solution was to enforce permissions on the backend as well as the frontend. This prevents users from gaining additional access by changing a URL or sending restricted API requests directly.
 
-## Deployment
-
-See `DEPLOYMENT.md` for deployment instructions and environment configuration.
-
----
-
 **Webora**
 Website Operations & Client Workspace
 Developed by Tayyaba Zahra
